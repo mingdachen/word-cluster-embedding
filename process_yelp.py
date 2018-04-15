@@ -17,7 +17,6 @@ def get_args():
         description='Data Processing for \
         \"Smaller Text Classifiers with Discriminative Cluster Embeddings\"')
     parser.register('type', 'bool', str2bool)
-    parser.register('type', 'bool', str2bool)
 
     parser.add_argument('--type', type=str, default="yelp-1",
                         help='data type: yelp-1, yelp-2')

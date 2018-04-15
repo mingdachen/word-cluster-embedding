@@ -18,7 +18,6 @@ def get_args():
         description='Data Processing for \
         \"Smaller Text Classifiers with Discriminative Cluster Embeddings\"')
     parser.register('type', 'bool', str2bool)
-    parser.register('type', 'bool', str2bool)
 
     parser.add_argument('--type', type=str, default="agnews",
                         help='data type: agnews, dbpedia')
