@@ -4,12 +4,14 @@ Code for "Smaller Text Classifiers with Discriminative Cluster Embeddings" (NAAC
 ## Citation
 If you use our code, please cite:
 
+```
 @inproceedings{chen2018smaller,
   author = {Mingda Chen and Kevin Gimpel},
   booktitle = {North American Association for Computational Linguistics (NAACL)},
   title = {Smaller Text Classifiers with Discriminative Cluster Embeddings},
-  year = {2018},
+  year = {2018}
 }
+```
 
 ## Dependencies
 
