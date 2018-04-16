@@ -1,5 +1,5 @@
 # Word Cluster Embeddings
-Code for "Smaller Text Classifiers with Discriminative Cluster Embeddings" (NAACL 2018)
+Code for ["Smaller Text Classifiers with Discriminative Cluster Embeddings"](http://ttic.uchicago.edu/~mchen/papers/mchen+kgimpel.naacl18.pdf) (NAACL 2018)
 
 ## Citation
 If you use our code, please cite:
